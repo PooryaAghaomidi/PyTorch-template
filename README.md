@@ -69,7 +69,7 @@ This repository contains a template for an MNIST image classification project us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PooryaAghaomidi/Tensorflow-template.git
+   git clone https://github.com/PooryaAghaomidi/PyTorch-template.git
    ```
    
 2. Create an environment and set interpreter to `Python v3.10`
